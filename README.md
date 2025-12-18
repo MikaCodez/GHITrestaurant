@@ -314,5 +314,3 @@ SCOPE code credits to Code Institute, Django Blog Walkthrough Project. HTML temp
 Credits also due to Code Institute staff for helping especially Tutor Support. Special Shout out to Rebecca, Ed, Scott and Alex. I relied on them heavily during Crunch time and they pulled through and managed to help me when I was at breaking points.
 
 Also special shouts to Tom from Slack Community. Life Save and helped guide me when it came to implementing Static files for my project.
-
-And a Major Shout out to my Wife CleliaMente! Best Life Partner that I could ask for that helped inspire this project and encouraged me to push through!!
