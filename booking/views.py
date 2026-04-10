@@ -1,4 +1,5 @@
 from django.shortcuts import render, get_object_or_404
+from django.http import HttpResponseRedirect
 from django.views import generic, View
 from .models import Post
 from .forms import CommentForm
@@ -8,7 +9,7 @@ from django.views.generic.base import TemplateView
 from django.views.generic import TemplateView
 from home.views import PageTitleViewMixin
 from django.contrib import messages
-from django.urls import reverse_lazy
+from django.urls import reverse
 
 
 class BookingsView(PageTitleViewMixin, TemplateView):
