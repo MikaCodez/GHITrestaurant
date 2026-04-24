@@ -3,7 +3,7 @@ GHIT Restaurant is a Fusion of Ghanaian and Italian cuisine based in London to d
 
 
 ![GHIT responsive](https://user-images.githubusercontent.com/65243328/176653319-bc13d952-3a04-4dcc-82f2-bd2512097ac7.JPG)
-[Deployed site here](https://ghit-reservation.herokuapp.com/)
+[Deployed site here](https://ghitrestaurant.onrender.com/)
 
 
 ## UX
